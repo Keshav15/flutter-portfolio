@@ -60400,27 +60400,27 @@ A.D1.prototype={
 N(a){return new A.tw(B.yW,"Portfolio",A.agm(null,$.al3(),B.fH,null),null)}}
 A.E6.prototype={}
 A.C8.prototype={
-N(a0){var s,r,q,p,o,n,m=null,l="Experience",k="Hello I am a freelancer\n\nHe has previously been a speaker at the Flutter Global Summit'21, Flutter Vikings and events across colleges, universities (like VIT Chennai, Vellore, MIT-ADT), and clubs (IEEE APSIT, SFIT, GirlScript, GeeksforGeeks Student Chapter, Google CrowdSource, and more) here in India. \n",j="About Me",i="Aditya is a content creator and has over 5K subscribers on YouTube and a 700+ member community on Discord. \n\ud83d\udcfa YouTube Channel: watch.adityathakur.in\n\ud83d\ude80 Discord Community: discord.adityathakur.in\n",h="Location",g="Pune India",f="Portfolio",e="keshavbajaj4444@gmail.com",d=t.w,c=a0.X(d).f,b=A.ez(B.B6,B.S,B.K,B.a1),a=a0.X(d).f
-a=A.r3(m,new A.fZ(B.ku,m,m,new A.dT(B.eY,new A.zw(new A.qx("images/1673432937884.jpeg"),60,m),m),m),B.B,m,m,new A.el(m,m,m,m,m,new A.nZ(B.vB,B.vC,B.d0,A.a([B.DC,B.DA],t.bk),m,m),B.b_),m,200,m,m,m,m,a.a.a)
+N(a){var s,r,q,p,o,n,m=null,l="Experience",k="About Me",j="The most fundamental thing I love is building tools and technologies for the betterment of humanity,\n Also Appeared in GATE CSE 2022 and achieved AIR 1230\n",i="Location",h="Pune India",g="Portfolio",f="keshavbajaj4444@gmail.com",e=t.w,d=a.X(e).f,c=A.ez(B.B6,B.S,B.K,B.a1),b=a.X(e).f
+b=A.r3(m,new A.fZ(B.ku,m,m,new A.dT(B.eY,new A.zw(new A.qx("images/1673432937884.jpeg"),60,m),m),m),B.B,m,m,new A.el(m,m,m,m,m,new A.nZ(B.vB,B.vC,B.d0,A.a([B.DC,B.DA],t.bk),m,m),B.b_),m,200,m,m,m,m,b.a.a)
 s=A.kY(A.bG("Keshav Bajaj",$.al5()),m,m)
 r=$.ib()
 q=A.kY(A.bG("@Abzooba",r),m,m)
 p=t.F
 r=A.ez(A.a([new A.Dp(new A.Ub(),m,m,m,m,B.B,m,!1,m,A.bG("View Resume",r),m),B.k0,A.aex(A.ez(A.a([B.z9,B.aU,A.bG("Contact",r.eg(B.i))],p),B.S,B.K,B.a1),new A.Uc())],p),B.S,B.rm,B.a1)
-o=a0.X(d).f
-c=c.a.a
-if(c>1200){n=$.aaE()
-n=A.ez(A.a([new A.nF(3,B.lN,A.jq(A.a([A.bG(l,n),B.J,A.bG(k,m),B.eU,A.bG(j,n),B.J,A.bG(i,m)],p),B.b2,B.K),m),new A.nF(1,B.lN,A.jq(A.a([A.aaX(new A.dT(B.lH,A.jq(A.a([A.bG(h,$.ib()),B.J,A.ez(A.a([B.mb,B.aU,A.bG(g,m)],p),B.S,B.K,B.a1),B.J,A.bG("Website",$.ib()),B.J,A.ez(A.a([A.bG("",m),B.aU,B.bH],p),B.S,B.K,B.a1),B.J,A.bG(f,$.ib()),B.J,A.ez(A.a([A.bG("",m),B.aU,B.bH],p),B.S,B.K,B.a1),B.J,A.bG("Email",$.ib()),B.J,A.ez(A.a([A.bG(e,m),B.aU,B.bH],p),B.S,B.K,B.a1),B.J],p),B.b2,B.K),m),B.i)],p),B.S,B.K),m)],p),B.S,B.rm,B.a1)}else{n=$.aaE()
-n=A.jq(A.a([A.jq(A.a([A.bG(l,n),B.J,A.bG(k,m),B.eU,A.bG(j,n),B.J,A.bG(i,m)],p),B.b2,B.K),A.jq(A.a([A.aaX(new A.dT(B.lH,A.jq(A.a([A.bG(h,$.ib()),B.J,A.ez(A.a([B.mb,B.aU,A.bG(g,m)],p),B.S,B.K,B.a1),B.J,A.bG("Website",$.ib()),B.J,A.ez(A.a([A.bG("",m),B.aU,B.bH],p),B.S,B.K,B.a1),B.J,A.bG(f,$.ib()),B.J,A.ez(A.a([A.bG("",m),B.aU,B.bH],p),B.S,B.K,B.a1),B.J,A.bG("Email",$.ib()),B.J,A.ez(A.a([A.bG(e,m),B.aU,B.bH],p),B.S,B.K,B.a1),B.J],p),B.b2,B.K),m),B.i)],p),B.S,B.K)],p),B.S,B.K)}o=A.kY(A.kd(n,m,o.a.a*0.8),m,m)
-d=a0.X(d).f
-if(c>1000){$.O3()
-c=A.aeK(B.FS,new A.Ud(),4,!0)}else{$.O3()
-c=A.aeK(B.FR,new A.Ue(),4,!0)}return new A.uL(new A.qw(b,B.i,new A.Kq(m,m,1/0,56),m),new A.Fq(A.jq(A.a([a,s,q,B.J,r,B.J,o,A.kY(A.kd(c,m,d.a.a*0.8),m,m)],p),B.b2,B.K),m),m)}}
+o=a.X(e).f
+d=d.a.a
+if(d>1200){n=$.aaE()
+n=A.ez(A.a([new A.nF(3,B.lN,A.jq(A.a([A.bG(l,n),B.J,A.bG("\n",m),B.eU,A.bG(k,n),B.J,A.bG(j,m)],p),B.b2,B.K),m),new A.nF(1,B.lN,A.jq(A.a([A.aaX(new A.dT(B.lH,A.jq(A.a([A.bG(i,$.ib()),B.J,A.ez(A.a([B.mb,B.aU,A.bG(h,m)],p),B.S,B.K,B.a1),B.J,A.bG("Website",$.ib()),B.J,A.ez(A.a([A.bG("",m),B.aU,B.bH],p),B.S,B.K,B.a1),B.J,A.bG(g,$.ib()),B.J,A.ez(A.a([A.bG("",m),B.aU,B.bH],p),B.S,B.K,B.a1),B.J,A.bG("Email",$.ib()),B.J,A.ez(A.a([A.bG(f,m),B.aU,B.bH],p),B.S,B.K,B.a1),B.J],p),B.b2,B.K),m),B.i)],p),B.S,B.K),m)],p),B.S,B.rm,B.a1)}else{n=$.aaE()
+n=A.jq(A.a([A.jq(A.a([A.bG(l,n),B.J,A.bG("\n",m),B.eU,A.bG(k,n),B.J,A.bG(j,m)],p),B.b2,B.K),A.jq(A.a([A.aaX(new A.dT(B.lH,A.jq(A.a([A.bG(i,$.ib()),B.J,A.ez(A.a([B.mb,B.aU,A.bG(h,m)],p),B.S,B.K,B.a1),B.J,A.bG("Website",$.ib()),B.J,A.ez(A.a([A.bG("",m),B.aU,B.bH],p),B.S,B.K,B.a1),B.J,A.bG(g,$.ib()),B.J,A.ez(A.a([A.bG("",m),B.aU,B.bH],p),B.S,B.K,B.a1),B.J,A.bG("Email",$.ib()),B.J,A.ez(A.a([A.bG(f,m),B.aU,B.bH],p),B.S,B.K,B.a1),B.J],p),B.b2,B.K),m),B.i)],p),B.S,B.K)],p),B.S,B.K)}o=A.kY(A.kd(n,m,o.a.a*0.8),m,m)
+e=a.X(e).f
+if(d>1000){$.O3()
+d=A.aeK(B.FS,new A.Ud(),4,!0)}else{$.O3()
+d=A.aeK(B.FR,new A.Ue(),4,!0)}return new A.uL(new A.qw(c,B.i,new A.Kq(m,m,1/0,56),m),new A.Fq(A.jq(A.a([b,s,q,B.J,r,B.J,o,A.kY(A.kd(d,m,e.a.a*0.8),m,m)],p),B.b2,B.K),m),m)}}
 A.Ub.prototype={
 $0(){var s=0,r=A.a_(t.H)
 var $async$$0=A.a0(function(a,b){if(a===1)return A.X(b,r)
 while(true)switch(s){case 0:s=2
-return A.a2(A.NR(A.pf("https://drive.google.com/file/d/1uZPqMWva6pZxzQxsR_ILLZ_FxJr24QeY/view?usp=sharing",0,null)),$async$$0)
+return A.a2(A.NR(A.pf("",0,null)),$async$$0)
 case 2:return A.Y(null,r)}})
 return A.Z($async$$0,r)},
 $S:16}
@@ -65753,8 +65753,8 @@ r($,"ayO","ib",()=>A.aeJ(B.cb,12,B.au))
 r($,"ayN","aaE",()=>A.aeJ(B.cb,18,B.au))
 r($,"ayJ","al3",()=>{var q=null
 return A.an8(A.P2(q,q,A.agP(new A.a9E()),q,q,q,A.agP(new A.a9F()),q,q,q,q,q,q,q,q,q,q,q,q,q,q,q))})
-r($,"ayW","O3",()=>{var q="Fiasco is one stop solution to help you manage Family expenses in one place!",p="https://github.com/adityathakurxd/fiasco"
-return A.a([A.XP("Winner IEEE Mandi 'Go Online' Challenge at Electrothon, NIT Hamirpur.","https://github.com/adityathakurxd/shades","Shades"),A.XP(q,p,"Fiasco"),A.XP(q,p,"Fiasco"),A.XP("A template for Portfolio","https://github.com/adityathakurxd/flutter-portfolio","Flutter Portfolio")],A.a4("w<E6>"))})
+r($,"ayW","O3",()=>{var q="https://github.com/adityathakurxd/fiasco"
+return A.a([A.XP("","https://github.com/adityathakurxd/shades","Face Emotion recognition"),A.XP("",q,"Sentence Similarity Checker API"),A.XP("Fiasco is one stop solution to help you manage Family expenses in one place!",q,"Fiasco"),A.XP("A template for Portfolio","https://github.com/adityathakurxd/flutter-portfolio","Flutter Portfolio")],A.a4("w<E6>"))})
 s($,"awJ","adm",()=>new A.H())
 r($,"aqr","ajR",()=>{var q=new A.W2()
 q.Oc($.adm())
@@ -65804,4 +65804,3 @@ a(b.target)}for(var r=0;r<s.length;++r)s[r].addEventListener("load",onLoad,false
 var s=A.a9Z
 if(typeof dartMainRunner==="function")dartMainRunner(s,[])
 else s([])})})()
-//# sourceMappingURL=main.dart.js.map
