@@ -5,18 +5,18 @@ import 'package:portfolio/models/project_model.dart';
 Color kGradient1 = Colors.purple;
 Color kGradient2 = Colors.pinkAccent;
 
-String imagePath = "images/aditya.jpeg";
+String imagePath = "images/1673432937884.jpeg";
 
 //String data to modify
-String name = "Your Name";
-String username = "flutterroles";
+String name = "Keshav Bajaj";
+String username = "Abzooba";
 
 //Link to resume on Google Drive
 String resumeLink =
     "https://drive.google.com/file/d/1uZPqMWva6pZxzQxsR_ILLZ_FxJr24QeY/view?usp=sharing";
 
 //Contact Email
-String contactEmail = "mail@adityathakur.in";
+String contactEmail = "keshavbajaj4444@gmail.com";
 
 String aboutWorkExperience = '''
 Hello I am a freelancer
@@ -30,10 +30,10 @@ Aditya is a content creator and has over 5K subscribers on YouTube and a 700+ me
 🚀 Discord Community: discord.adityathakur.in
 ''';
 
-String location = "Dharamshala, India";
-String website = "adityathakur.in";
-String portfolio = "adityathakurxd";
-String email = "mail@adityathakur.in";
+String location = "Pune India";
+String website = "";
+String portfolio = "";
+String email = "keshavbajaj4444@gmail.com";
 
 List<Project> projectList = [
   Project(
